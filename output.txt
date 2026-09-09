@@ -1,0 +1,13 @@
+Initial Board:
+X | |
+---------
+| O |
+---------
+| | X
+AI (O) selects position: 1 | Evaluation score: 0
+Board after AI move:
+X | O |
+---------
+| O |
+---------
+| | X
